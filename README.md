@@ -1,56 +1,56 @@
-##×ÔÈ»ÓïÑÔ´¦Àí»ù±¾¼¼ÄÜÁÐ±í (by@zhangmeishan)
+##è‡ªç„¶è¯­è¨€å¤„ç†åŸºæœ¬æŠ€èƒ½åˆ—è¡¨ (by@[zhangmeishan](https://github.com/zhangmeishan))
 
-###»ù´¡Æª£º
+###åŸºç¡€ç¯‡ï¼š
 
-- 1.ÈçºÎÊ¹ÓÃÔ¶³ÌÁ¬½Ó´Ówindows»òÕßlinuxÁ¬µ½·þÎñÆ÷½øÐÐ²Ù×÷(ÇÐ»»ÓÃ»§£¬´«µÝÎÄ¼þ) (ÑÏ½ûÊ¹ÓÃrootÕË»§)
-- 2.Linux»ù±¾bashÃüÁî
-    * a)²é¿´ÎÄ¼þ´óÐ¡£¬ÄÚ´æ´óÐ¡£¬cpuÐÅÏ¢£¬Ó²ÅÌ¿Õ¼äµÈµÈ
-    * b)²é¿´Ä¿Ç°ÔËÐÐ³ÌÐòÇé¿ö£¬Ê£ÓàÄÚ´æ£¬kill³ÌÐò
-    * c)ÔËÐÐÒ»¸ö³ÌÐò
-    * d)Ð´Ò»¸ö½Å±¾£¬Ê¹ÓÃÉÏfor, ifµÈÓï¾ä
-    * e)sedÃüÁî, grepÃüÁî
-- 3.AwkÁ·Ï°
-    * a)´Ê¡¢×ÖµÄÍ³¼Æ
-    * b)È¡³öÄ³Ð©ÌØ¶¨µÄ×Ö¶Î
-    * c)¸ÄÐ´£º¸ù¾ÝÄ³¸öÌØ¶¨×Ö¶Î½øÐÐÅÅÐò
-- 4.³ÌÐòÔËÐÐÊµ¼ù
-    * a)Stanford nlp: ·Ö´Ê¡¢´ÊÐÔ±ê×¢¡¢¾ä·¨·ÖÎö£» ÕûÌåÅÜÒ»±é
-    * b)HIT-ltp: ·Ö´Ê¡¢´ÊÐÔ±ê×¢¡¢¾ä·¨·ÖÎö£» ÕûÌåÅÜÒ»±é
-    * c)CMakeÊ¹ÓÃ
-    * d)ZPar: ·Ö´Ê¡¢´ÊÐÔ±ê×¢¡¢¾ä·¨·ÖÎö£» ÕûÌåÅÜÒ»±é£¨Ä£ÐÍ×Ô¼ºÑµÁ·£©
-    * e)Berkeley parserÊ¹ÓÃ £¨Ä£ÐÍ×Ô¼ºÑµÁ·£©
-    * f)Çé¸Ð·ÖÎö´úÂëÅÜÒ»±é£ºNNContextSentiment
-    * g)NNCRFÅÜÒ»±é£ºNNSegmentation, NNPostagging, NNNameEntity
-    * h)Ê¹ÓÃword2vecÑµÁ·Ò»¸ö´ÊÏòÁ¿
-- 5.Ê¹ÓÃgithub£¬½¨Á¢×Ô¼ºµÄgithub£¬½¨Á¢×Ô¼ºµÄ´úÂëºÍÎÄµµ²Ö¿â
-- 6.²éÕÒÒ»¸öÄãÈÏÎª±È½ÏºÃÓÃµÄ¿ªÔ´Ó¦ÓÃÈí¼þ(´óÖÚÊìÖªµÄ»úÆ÷Ñ§Ï°»òÕß×ÔÈ»ÓïÑÔ´¦Àí¹¤¾ß)£ºÀýÈçÎÒÍÆ¼ö beyond compare, ConstTreeViewer, whatswrong
-- 7.ÖÂÁ¦ÓÚÑÐ¾¿µÄÍ¬Ñ§£¬Ê¹ÓÃlatex(CTex¹¤¾ß°ü)£¬Ê¹ÓÃyinxiang±Ê¼Ç
+- 1.å¦‚ä½•ä½¿ç”¨è¿œç¨‹è¿žæŽ¥ä»Žwindowsæˆ–è€…linuxè¿žåˆ°æœåŠ¡å™¨è¿›è¡Œæ“ä½œ(åˆ‡æ¢ç”¨æˆ·ï¼Œä¼ é€’æ–‡ä»¶) (ä¸¥ç¦ä½¿ç”¨rootè´¦æˆ·)
+- 2.LinuxåŸºæœ¬bashå‘½ä»¤
+    * a)æŸ¥çœ‹æ–‡ä»¶å¤§å°ï¼Œå†…å­˜å¤§å°ï¼Œcpuä¿¡æ¯ï¼Œç¡¬ç›˜ç©ºé—´ç­‰ç­‰
+    * b)æŸ¥çœ‹ç›®å‰è¿è¡Œç¨‹åºæƒ…å†µï¼Œå‰©ä½™å†…å­˜ï¼Œkillç¨‹åº
+    * c)è¿è¡Œä¸€ä¸ªç¨‹åº
+    * d)å†™ä¸€ä¸ªè„šæœ¬ï¼Œä½¿ç”¨ä¸Šfor, ifç­‰è¯­å¥
+    * e)sedå‘½ä»¤, grepå‘½ä»¤
+- 3.Awkç»ƒä¹ 
+    * a)è¯ã€å­—çš„ç»Ÿè®¡
+    * b)å–å‡ºæŸäº›ç‰¹å®šçš„å­—æ®µ
+    * c)æ”¹å†™ï¼šæ ¹æ®æŸä¸ªç‰¹å®šå­—æ®µè¿›è¡ŒæŽ’åº
+- 4.ç¨‹åºè¿è¡Œå®žè·µ
+    * a)Stanford nlp: åˆ†è¯ã€è¯æ€§æ ‡æ³¨ã€å¥æ³•åˆ†æžï¼› æ•´ä½“è·‘ä¸€é
+    * b)HIT-ltp: åˆ†è¯ã€è¯æ€§æ ‡æ³¨ã€å¥æ³•åˆ†æžï¼› æ•´ä½“è·‘ä¸€é
+    * c)CMakeä½¿ç”¨
+    * d)ZPar: åˆ†è¯ã€è¯æ€§æ ‡æ³¨ã€å¥æ³•åˆ†æžï¼› æ•´ä½“è·‘ä¸€éï¼ˆæ¨¡åž‹è‡ªå·±è®­ç»ƒï¼‰
+    * e)Berkeley parserä½¿ç”¨ ï¼ˆæ¨¡åž‹è‡ªå·±è®­ç»ƒï¼‰
+    * f)æƒ…æ„Ÿåˆ†æžä»£ç è·‘ä¸€éï¼šNNContextSentiment
+    * g)NNCRFè·‘ä¸€éï¼šNNSegmentation, NNPostagging, NNNameEntity
+    * h)ä½¿ç”¨word2vecè®­ç»ƒä¸€ä¸ªè¯å‘é‡
+- 5.ä½¿ç”¨githubï¼Œå»ºç«‹è‡ªå·±çš„githubï¼Œå»ºç«‹è‡ªå·±çš„ä»£ç å’Œæ–‡æ¡£ä»“åº“
+- 6.æŸ¥æ‰¾ä¸€ä¸ªä½ è®¤ä¸ºæ¯”è¾ƒå¥½ç”¨çš„å¼€æºåº”ç”¨è½¯ä»¶(å¤§ä¼—ç†ŸçŸ¥çš„æœºå™¨å­¦ä¹ æˆ–è€…è‡ªç„¶è¯­è¨€å¤„ç†å·¥å…·)ï¼šä¾‹å¦‚æˆ‘æŽ¨è beyond compare, ConstTreeViewer, whatswrong
+- 7.è‡´åŠ›äºŽç ”ç©¶çš„åŒå­¦ï¼Œä½¿ç”¨latex(CTexå·¥å…·åŒ…)ï¼Œä½¿ç”¨yinxiangç¬”è®°
 
-###±à³ÌÆª£ºC++±ØÐë£¬ È»ºó´ÓjavaºÍpythonÈÎÑ¡Ò»¸ö
+###ç¼–ç¨‹ç¯‡ï¼šC++å¿…é¡»ï¼Œ ç„¶åŽä»Žjavaå’Œpythonä»»é€‰ä¸€ä¸ª
 
-- 8.Çé¸Ð·ÖÀàÆÀ¼Û³ÌÐò
-- 9.´ÊÐÔ±ê×¢ÆÀ¼Û³ÌÐò
-- 10.·Ö´ÊÆÀ¼Û³ÌÐò
-- 11.ÃüÃûÊµÌåÊ¶±ðÆÀ¼Û³ÌÐò
-- 12.8¡¢9¡¢10¡¢11ÓÃCMake×éÖ¯ÆðÀ´
-- 13.¾ØÕóÏòÁ¿ÔËËã y = Wx, (Ï¡ÊèÇé¿öºÍdenseÇé¿ö)
-- 14.DenseÇé¿ö£º y= W1x1 + W2x2
-- 15.¾ØÕóÏòÁ¿ÔËËã£º y = tanh(Wx), y = sigmoid(Wx) , y = relu(Wx) (Ï¡ÊèÇé¿öºÍdenseÇé¿ö)
-- 16.DenseÇé¿ö£º y = tanh(W1x1+W2x2), y = sigmoid(W1x1+W2x2) , y = relu(W1x1+W2x2)
-- 17.ÏòÁ¿ÔËËãsoftmax:  y = softmax(o)
-- 18.¸ù¾Ýtemplate³éÈ¡Çé¸Ð·ÖÎöÌØÕ÷
-- 19.¸ù¾Ýtemplate³éÈ¡´ÊÐÔ±ê×¢ÌØÕ÷
-- 20.¸ù¾Ýtemplate³éÈ¡·Ö´ÊÌØÕ÷
-- 21.¸ù¾Ýtemplate³éÈ¡ÃüÃûÊµÌåÊ¶±ðÌØÕ÷
-- 22.Ê¹ÓÃsvm½øÐÐ18¡¢19¡¢20¡¢21
-- 23.ÀûÓÃ×Ô¼º³éÈ¡µÄÌØÕ÷Ê¹ÓÃNNSegmentation, NNPostagging, NNNameEntity
-- 24.×Ô¼º¶¯ÊÖÐ´×î´óìØ³ÌÐò½øÐÐÇé¸Ð·ÖÎö£¬Ê¹ÓÃtemplate³éÈ¡µÄÌØÕ÷£¬Ñ§Ï°Ê²Ã´ÊÇ×î´óìØ
-- 25.×Ô¼º¶¯ÊÖÐ´×î´óìØ³ÌÐò½øÐÐÇé¸Ð·ÖÎö£¬Ê¹ÓÃÍâ²¿word2vecÌØÕ÷£¬Ñ§Ï°Ê²Ã´ÊÇpooling
-- 26.×Ô¼º¶¯ÊÖÐ´×î´óìØ³ÌÐò½øÐÐÇé¸Ð·ÖÎö£¬´ÊÏòÁ¿±¾Éí×÷Îª²ÎÊýÄ£ÐÍ£¬µÚÒ»¸öÉî¶ÈÑ§Ï°Ä£ÐÍ
-- 27.24ºÍ25½øÐÐcombineºóÔ¤²â
-- 28.Ê¹ÓÃmax-marginÖØ×ö24¡¢25¡¢26¡¢27
-- 29.¼ÓÈë¶îÍâÆÕÍ¨Òþ²ã½øÐÐ25¡¢26¡¢27
-- 30.¼ÓÈë¶îÍâRNNÒþ²ã½øÐÐ25¡¢26¡¢27
-- 31.¼ÓÈë¶îÍâLSTMÒþ²ã½øÐÐ25¡¢26¡¢27
-- 32.28»ù´¡ÉÏ½«pooling»»³Éattention½øÐÐ25¡¢26¡¢27
-- 33.29»ù´¡ÉÏ£¬½«characterÏòÁ¿ÒýÈë£¬½øÐÐ25¡¢26¡¢27
+- 8.æƒ…æ„Ÿåˆ†ç±»è¯„ä»·ç¨‹åº
+- 9.è¯æ€§æ ‡æ³¨è¯„ä»·ç¨‹åº
+- 10.åˆ†è¯è¯„ä»·ç¨‹åº
+- 11.å‘½åå®žä½“è¯†åˆ«è¯„ä»·ç¨‹åº
+- 12.8ã€9ã€10ã€11ç”¨CMakeç»„ç»‡èµ·æ¥
+- 13.çŸ©é˜µå‘é‡è¿ç®— y = Wx, (ç¨€ç–æƒ…å†µå’Œdenseæƒ…å†µ)
+- 14.Denseæƒ…å†µï¼š y= W1x1 + W2x2
+- 15.çŸ©é˜µå‘é‡è¿ç®—ï¼š y = tanh(Wx), y = sigmoid(Wx) , y = relu(Wx) (ç¨€ç–æƒ…å†µå’Œdenseæƒ…å†µ)
+- 16.Denseæƒ…å†µï¼š y = tanh(W1x1+W2x2), y = sigmoid(W1x1+W2x2) , y = relu(W1x1+W2x2)
+- 17.å‘é‡è¿ç®—softmax:  y = softmax(o)
+- 18.æ ¹æ®templateæŠ½å–æƒ…æ„Ÿåˆ†æžç‰¹å¾
+- 19.æ ¹æ®templateæŠ½å–è¯æ€§æ ‡æ³¨ç‰¹å¾
+- 20.æ ¹æ®templateæŠ½å–åˆ†è¯ç‰¹å¾
+- 21.æ ¹æ®templateæŠ½å–å‘½åå®žä½“è¯†åˆ«ç‰¹å¾
+- 22.ä½¿ç”¨svmè¿›è¡Œ18ã€19ã€20ã€21
+- 23.åˆ©ç”¨è‡ªå·±æŠ½å–çš„ç‰¹å¾ä½¿ç”¨NNSegmentation, NNPostagging, NNNameEntity
+- 24.è‡ªå·±åŠ¨æ‰‹å†™æœ€å¤§ç†µç¨‹åºè¿›è¡Œæƒ…æ„Ÿåˆ†æžï¼Œä½¿ç”¨templateæŠ½å–çš„ç‰¹å¾ï¼Œå­¦ä¹ ä»€ä¹ˆæ˜¯æœ€å¤§ç†µ
+- 25.è‡ªå·±åŠ¨æ‰‹å†™æœ€å¤§ç†µç¨‹åºè¿›è¡Œæƒ…æ„Ÿåˆ†æžï¼Œä½¿ç”¨å¤–éƒ¨word2vecç‰¹å¾ï¼Œå­¦ä¹ ä»€ä¹ˆæ˜¯pooling
+- 26.è‡ªå·±åŠ¨æ‰‹å†™æœ€å¤§ç†µç¨‹åºè¿›è¡Œæƒ…æ„Ÿåˆ†æžï¼Œè¯å‘é‡æœ¬èº«ä½œä¸ºå‚æ•°æ¨¡åž‹ï¼Œç¬¬ä¸€ä¸ªæ·±åº¦å­¦ä¹ æ¨¡åž‹
+- 27.24å’Œ25è¿›è¡ŒcombineåŽé¢„æµ‹
+- 28.ä½¿ç”¨max-marginé‡åš24ã€25ã€26ã€27
+- 29.åŠ å…¥é¢å¤–æ™®é€šéšå±‚è¿›è¡Œ25ã€26ã€27
+- 30.åŠ å…¥é¢å¤–RNNéšå±‚è¿›è¡Œ25ã€26ã€27
+- 31.åŠ å…¥é¢å¤–LSTMéšå±‚è¿›è¡Œ25ã€26ã€27
+- 32.28åŸºç¡€ä¸Šå°†poolingæ¢æˆattentionè¿›è¡Œ25ã€26ã€27
+- 33.29åŸºç¡€ä¸Šï¼Œå°†characterå‘é‡å¼•å…¥ï¼Œè¿›è¡Œ25ã€26ã€27
