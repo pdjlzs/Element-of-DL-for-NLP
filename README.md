@@ -1,6 +1,6 @@
-#自然语言处理基本技能列表
+##自然语言处理基本技能列表 (by@zhangmeishan)
 
-##基础篇：
+###基础篇：
 
 - 1.如何使用远程连接从windows或者linux连到服务器进行操作(切换用户，传递文件) (严禁使用root账户)
 - 2.Linux基本bash命令
@@ -26,7 +26,7 @@
 - 6.查找一个你认为比较好用的开源应用软件(大众熟知的机器学习或者自然语言处理工具)：例如我推荐 beyond compare, ConstTreeViewer, whatswrong
 - 7.致力于研究的同学，使用latex(CTex工具包)，使用yinxiang笔记
 
-##编程篇：C++必须， 然后从java和python任选一个
+###编程篇：C++必须， 然后从java和python任选一个
 
 - 8.情感分类评价程序
 - 9.词性标注评价程序
