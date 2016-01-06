@@ -26,6 +26,7 @@
     - NNCRF跑一遍：NNSegmentation, NNPostagging, NNNameEntity
     - 使用word2vec训练一个词向量
 5. 使用github，建立自己的github，建立自己的代码和文档仓库
+	- [一个非常简易的git使用指南](http://www.bootcss.com/p/git-guide/)
 6. 查找一个你认为比较好用的开源应用软件(大众熟知的机器学习或者自然语言处理工具)：例如我推荐 beyond compare, ConstTreeViewer, whatswrong
 7. 致力于研究的同学，使用latex(CTex工具包)，使用yinxiang笔记
 
